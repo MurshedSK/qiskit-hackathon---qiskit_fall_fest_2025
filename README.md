@@ -18,7 +18,7 @@ The project successfully produces two key outputs as defined in the brief:
 ### Output 1: The Single Random Number
 The first part of the script runs the circuit for a **single shot** to produce one truly random number. This fulfills the primary "generator" requirement.
 
-<img width="439" height="82" alt="image" src="https://github.com/user-attachments/assets/a7b4dd76-d1ab-424e-8cae-64586ba7dff8" />
+<img width="370" height="303" alt="image" src="https://github.com/user-attachments/assets/f0375beb-5345-4097-9498-db379d2c60d9" />
 
 ### Output 2: The "Proof of Quantum-ness"
 The second part runs the circuit for **1024 shots** to demonstrate the "true quantum nature" of the circuit. The resulting histogram (shown below) clearly displays the "$n$ equal buckets of measurement results," proving that all 8 outcomes were (roughly) equally likely to be measured.
